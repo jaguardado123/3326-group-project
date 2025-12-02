@@ -1,4 +1,4 @@
-# Final Project
+# Final Group Project
 
 ## Let's get started!
 
